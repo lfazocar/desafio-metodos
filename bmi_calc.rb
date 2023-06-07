@@ -12,7 +12,7 @@ end
 
 puts 'BMI Calculator'
 puts '***************************'
-puts 'Enter weight in kilograms: '
+puts 'Enter weight in kilograms'
 weight = gets.chomp.to_f
 puts 'Enter height in meters'
 height = gets.chomp.to_f
